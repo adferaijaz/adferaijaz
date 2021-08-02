@@ -14,7 +14,7 @@
 
 <p align="center"> <a href="https://twitter.com/adferaijaz" target="blank"><img src="https://img.shields.io/twitter/follow/adferaijaz?logo=twitter&style=for-the-badge" alt="adferaijaz" /></a> </p>
 
-<img align="right" src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/project.4ab3c205.gif" alt="adferaijaz" />
+<img align="right" src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/projects.714b51ff.gif" alt="adferaijaz" />
 
 - 👨‍💻 All of my projects are available at [adferaijaz.github.io](adferaijaz.github.io)
 
