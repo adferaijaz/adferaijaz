@@ -13,7 +13,6 @@
 
 
 <p align="center"> <a href="https://twitter.com/adferaijaz" target="blank"><img src="https://img.shields.io/twitter/follow/adferaijaz?logo=twitter&style=for-the-badge" alt="adferaijaz" /></a> </p>
-<p align="center"> <a href="https://linkedin.com/in/adferaijaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adferaijaz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [adferaijaz.github.io](adferaijaz.github.io)
 
