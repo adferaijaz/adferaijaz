@@ -9,7 +9,7 @@
 <!--   <img align="right" src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/imacff.1686ee1d.png" alt="adferaijaz" /> -->
 </p>
 <!-- ok -->
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adferaijaz&show_icons=true&locale=en" alt="adferaijaz" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=adferaijaz&show_icons=true&locale=en" alt="adferaijaz" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adferaijaz&show_icons=true&locale=en&layout=compact" alt="adferaijaz" /></p> -->
 
 
