@@ -1,4 +1,10 @@
-<h1 align="center">Hello 👋, I'm Adfer Aijaz</h1>
+<!-- <p align="center">
+  
+</p> -->
+<h1 align="center">
+  <img align="center" src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/imacff.1686ee1d.png" alt="adferaijaz" />
+  Hello 👋, I'm Adfer Aijaz
+</h1>
 <h3 align="center">A passionate Application Developer</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adferaijaz&show_icons=true&locale=en&layout=compact" alt="adferaijaz" /></p>
