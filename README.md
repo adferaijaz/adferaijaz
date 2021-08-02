@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Application Developer</h3>
 
 <!-- ok -->
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api?username=adferaijaz&show_icons=true&locale=en" alt="adferaijaz" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=adferaijaz&show_icons=true&locale=en" alt="adferaijaz" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adferaijaz&show_icons=true&locale=en&layout=compact" alt="adferaijaz" /></p>
 
 
