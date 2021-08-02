@@ -13,7 +13,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adferaijaz&show_icons=true&locale=en&layout=compact" alt="adferaijaz" /></p> -->
 
 
-
+<p>
 <p align="center"> <a href="https://twitter.com/adferaijaz" target="blank"><img src="https://img.shields.io/twitter/follow/adferaijaz?logo=twitter&style=for-the-badge" alt="adferaijaz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [adferaijaz.github.io](adferaijaz.github.io)
@@ -108,3 +108,4 @@
 <a href="https://instagram.com/adferaijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adferaijaz" height="30" width="40" /></a>
 </p>
 
+</p>
