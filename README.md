@@ -21,8 +21,8 @@
 - 💬 Ask me about **ML, AI, React, iOS, Android, Cloud and Opensource Development.**
 
 
-<img src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/projects.714b51ff.gif" alt="adferaijaz" height="400px" width="400px" />
-
+<!-- <img src="https://github.com/adferaijaz/adferaijaz.github.io/blob/master/static/media/projects.714b51ff.gif" alt="adferaijaz" height="400px" width="400px" />
+ -->
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   
